@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Alfahad</h1>
+<h3 align="center">Frontend Developer | Web Designer | Founder of Techowear 🚀</h3>
 
-<!--
-**MDAlfahad/MDAlfahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **my startup Techowear**
+- 🌱 Always exploring new tech in **Web, UI/UX, and IoT**
+- 💬 Ask me about **HTML, CSS, JavaScript, Firebase, and UI design**
+- 🚀 Passionate about building user-first, pixel-perfect digital experiences
+- 📫 How to reach me: **alfahadkhan715@gmail.com**
+- ⚡ Fun fact: I turn ☕ into code and ideas into products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,mysql,firebase,figma,github,arduino" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdAlfahad&show_icons=true&theme=radical" alt="MdAlfahad's GitHub stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAlfahad&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="ttps://www.linkedin.com/in/md-alfahad-b56a48344/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="mailto:alfahadkhan715@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+</p>
