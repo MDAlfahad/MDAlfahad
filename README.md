@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Alfahad</h1>
-<h3 align="center">Frontend Developer | Web Designer | Founder of Techowear 🚀</h3>
+<h3 align="center">Frontend Developer | Web Designer🚀</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
