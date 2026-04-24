@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **my startup Techowear**
+- 🔭 I’m currently **Learning**
 - 🌱 Always exploring new tech in **Web, UI/UX, and IoT**
-- 💬 Ask me about **HTML, CSS, JavaScript, Firebase, and UI design**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI design**
 - 🚀 Passionate about building user-first, pixel-perfect digital experiences
 - 📫 How to reach me: **alfahadkhan715@gmail.com**
 - ⚡ Fun fact: I turn ☕ into code and ideas into products
