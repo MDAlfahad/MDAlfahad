@@ -32,6 +32,6 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="ttps://www.linkedin.com/in/md-alfahad-b56a48344/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/MDAlfahad" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="mailto:alfahadkhan715@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
 </p>
