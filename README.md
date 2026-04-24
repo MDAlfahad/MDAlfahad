@@ -23,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAlfahad&show_icons=true&theme=radical" alt="MdAlfahad's GitHub stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAlfahad&theme=radical" width="48%"/>
+  <a href="www.linkedin.com/MDAlfahad"><img src="https://github-readme-stats.vercel.app/api?username=MdAlfahad&show_icons=true&theme=radical" alt="MdAlfahad's GitHub stats" width="48%"/> </a>
+  <a href="mailto:alfahadkhan715@gmail.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAlfahad&theme=radical" width="48%"/></a>
 </p>
 
 ---
