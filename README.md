@@ -1,37 +1,73 @@
-<h1 align="center">Hi 👋, I'm Md Alfahad</h1>
-<h3 align="center">Frontend Developer | Web Designer🚀</h3>
+<h1 align="center">Md Alfahad</h1>
+<h3 align="center">Frontend Developer | Web Designer | Building Digital Experiences</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently **Learning**
-- 🌱 Always exploring new tech in **Web, UI/UX, and IoT**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI design**
-- 🚀 Passionate about building user-first, pixel-perfect digital experiences
-- 📫 How to reach me: **alfahadkhan715@gmail.com**
-- ⚡ Fun fact: I turn ☕ into code and ideas into products
+<p align="left">
+Passionate frontend developer and designer focused on creating modern, responsive, and user-centric web experiences. Interested in combining design, development, and technology to build impactful products.
+</p>
+
+<br/>
+
+### About Me
+
+- Currently expanding my knowledge in modern web technologies
+- Exploring Web Development, UI/UX Design, and IoT solutions
+- Skilled in building responsive and interactive user interfaces
+- Interested in creating products with clean design and practical functionality
+- Open to learning, collaboration, and innovative projects
+
+**Contact:**  
+📧 Email: **alfahadkhan715@gmail.com**
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,firebase,figma,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,firebase,figma,github,mysql" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/MDAlfahad"><img src="https://github-readme-stats.vercel.app/api?username=MdAlfahad&show_icons=true&theme=radical" alt="MdAlfahad's GitHub stats" width="48%"/> </a>
-  <a href="mailto:alfahadkhan715@gmail.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAlfahad&theme=radical" width="48%"/></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MdAlfahad&show_icons=true&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAlfahad&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### Current Focus
+
+- Frontend Development with React
+- Backend Development with Node.js
+- Building Full-Stack Applications
+- Learning Data Science & Machine Learning
+- Developing IoT-based products through Techowear
+
+---
+
+### Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/MDAlfahad" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:alfahadkhan715@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+<a href="https://www.linkedin.com/MDAlfahad" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="mailto:alfahadkhan715@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+</a>
+
+<a href="https://github.com/MdAlfahad">
+<img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Turning ideas into products through design and technology."</i>
 </p>
