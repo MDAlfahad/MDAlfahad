@@ -25,7 +25,7 @@ Passionate frontend developer and designer focused on creating modern, responsiv
 ### Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,firebase,figma,github,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,firebase,figma,github,mysql,mysqlserver" />
 </p>
 
 ---
