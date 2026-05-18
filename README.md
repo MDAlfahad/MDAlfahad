@@ -15,7 +15,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,firebase,figma,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,firebase,figma,github" />
 </p>
 
 ---
