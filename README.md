@@ -12,7 +12,7 @@ Passionate frontend developer and designer focused on creating modern, responsiv
 ### About Me
 
 - Currently expanding my knowledge in modern web technologies
-- Exploring Web Development, UI/UX Design, and IoT solutions
+- Exploring Web Development, UI/UX Design.
 - Skilled in building responsive and interactive user interfaces
 - Interested in creating products with clean design and practical functionality
 - Open to learning, collaboration, and innovative projects
