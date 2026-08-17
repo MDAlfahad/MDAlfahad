@@ -1,7 +1,7 @@
 <h1 align="center">Md Alfahad</h1>
 <h3 align="center">Frontend Developer | Web Designer | Building Digital Experiences</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2l3c3ZuanA5a21lMzYyaTUzOXd0c3ZyM3NkeW92czFoZ25sazFpNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif"/>
 
 <p align="left">
 Passionate frontend developer and designer focused on creating modern, responsive, and user-centric web experiences. Interested in combining design, development, and technology to build impactful products.
